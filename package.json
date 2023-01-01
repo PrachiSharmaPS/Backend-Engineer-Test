@@ -1,12 +1,12 @@
 {
   "name": "backend-developer-assignment",
   "version": "1.0.0",
-  "description": "aa",
+  "description": "Comapany assignment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "prachi",
+  "author": "Ankush_Rai",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",

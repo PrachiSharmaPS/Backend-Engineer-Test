@@ -6,7 +6,7 @@ const app=express();
 app.use(express.json());
 
 mongoose.set('strictQuery', false)
-mongoose.connect("mongodb+srv://Avverma:Avverma95766@avverma.2g4orpk.mongodb.net/backend", {
+mongoose.connect("mongodb+srv://ankushrai222:Ankushrai222@newproject.tknxizt.mongodb.net/assingmentCompany?retryWrites=true&w=majority", {
     useNewUrlParser: true,
 }).then( () => console.log("MongoDb is connected"))
 .catch ( err => console.log(err) )

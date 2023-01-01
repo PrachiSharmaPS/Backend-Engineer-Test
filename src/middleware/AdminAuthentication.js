@@ -1,6 +1,5 @@
 const jwt = require("jsonwebtoken");
 const adminModel = require("../model/adminModel");
-const errorHandler = require('../errorhandler/errorhandler');
 
 const AdminAuthenticate = (req, res, next) => {
   try {
