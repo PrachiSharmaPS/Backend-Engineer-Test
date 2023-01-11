@@ -1,5 +1,5 @@
 # backend_developer
-Technology: 
+Technology : 
 Use any. 
 Database: 
 MYSQL / MongoDB / (Use any) 
