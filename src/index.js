@@ -1,6 +1,6 @@
 const express=require('express');
 const mongoose = require('mongoose');
-const route = require('./router/router');
+const route = require('./router/route');
 const app=express();
 
 app.use(express.json());
